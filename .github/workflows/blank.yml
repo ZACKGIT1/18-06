@@ -10,4 +10,4 @@ jobs:
 
     steps:
       - name: Run a one-line script
-        run: echo "Hello, world!" > index.html
+        run: echo "good afternoon" > index.html
